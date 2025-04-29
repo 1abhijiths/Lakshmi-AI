@@ -1,16 +1,13 @@
-# lakshmiai
+LAKSHMI AI
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Lakshmi-AI is a Flutter-based mobile developed to empower rural women by providing AI-driven investment strategies tailored to their needs. Using OpenAI's ChatGPT API, the app delivers personalized, easy-to-understand financial guidance to help users make smarter investment decisions, even with little to no prior financial knowledge.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The goal of Lakshmi-AI is to bridge the financial literacy gap for women in underserved communities by using conversational AI to deliver actionable insights in an accessible and supportive way.
+
+This project was developed as part of the EY (Ernst & Young) Techathon, where we successfully advanced to the second round.
+
+
